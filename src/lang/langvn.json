@@ -1,0 +1,45 @@
+{
+  "links": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "world": "Toàn cầu",
+    "india": "Ấn Độ",
+    "timeline": "Ấn Độ theo thời gian",
+    "english": "Tiếng Anh",
+    "vnese": "Tiếng Việt"
+  },
+  "details": {
+    "compare": "So sánh với"
+  },
+  "home": {
+    "title_excel": "Global Covid-19 status",
+    "button_export": "In ra tài liệu",
+    "input": "Nước bạn",
+    "Number": "STT",
+    "Flag": "Cờ",
+    "Country": "Nước",
+    "Total_Cases": "Tổng ca mắc",
+    "Total_Deaths": "Tổng ca chết",
+    "New_Cases": "Số ca mắc mới",
+    "Total_Recovered": "Số ca hồi phục",
+    "Serious_Critical": "Số ca nguy kịch",
+    "Total_Tests": "Tổng số xét nghiệm",
+    "Active_Cases": "Số ca điều trị",
+    "New_Deaths": "Số ca mắc mới",
+    "Deaths_Per_1_Milion_People": " Số ca chết trên 1 triệu người",
+    "Tests_Per_1_Milion_People": "Số ca xét nghiệm trên 1 triệu người",
+    "Cases_Per_1_Milion_People": "Số ca mắc trên 1 triệu người",
+    "Action": "Hành Động",
+    "View_Details": "Xem chi tiết",
+    "NUM": "STT",
+    "label_details": "Biểu đồ tổng quan về Covid-19 của ",
+    "Cases": "Ca mắc",
+    "title": "Báo Cáo Tình Hình Covid Toàn Cầu"
+  },
+  "about": {
+    "title_hello": "Xin chào! Tôi là một lập trình viên Front-end với kinh nghiệm và kiến thức trong VueJs  , React,NestJs,Typescript. Tôi đam mê xây dựng các ứng dụng web đẹp và chất lượng cao với trải nghiệm người dùng tốt nhất có thể.",
+    "contact": "Thông tin liên hệ",
+    "Address": "Địa chỉ",
+    "News_Project": "Dự án mới nhất"
+  }
+}

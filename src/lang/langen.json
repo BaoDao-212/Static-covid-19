@@ -1,0 +1,44 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "world": "World",
+    "india": "India",
+    "timeline": "Timeline India",
+    "english": "English",
+    "vnese": "VietNamese"
+  },
+  "details": {
+    "compare": "Compare with"
+  },
+  "home": {
+    "button_export": "Export to excel",
+    "input": "Your Country",
+    "Number": "Number",
+    "Flag": "Flag",
+    "Country": "Country",
+    "Total_Cases": "Total Cases",
+    "Total_Deaths": "Total Deaths",
+    "New_Cases": "New Cases",
+    "Total_Recovered": "Total Recovered",
+    "Serious_Critical": "Serious Critical",
+    "Total_Tests": "Total Tests",
+    "Active_Cases": "Active Cases",
+    "New_Deaths": "New Deaths",
+    "Deaths_Per_1_Milion_People": "Deaths Per 1 Milion People",
+    "Cases_Per_1_Milion_People": "Cases Per 1 Milion People",
+    "Tests_Per_1_Milion_People": "Tests Per 1 Milion People",
+    "Action": "Action",
+    "View_Details": "View Details",
+    "NUM": "NUM",
+    "label_details": "'s Covid-19 overview chart",
+    "Cases": "Cases",
+    "title": "Worldwide Covid Situation Report"
+  },
+  "about": {
+    "title_hello": "Xin chào! Tôi là một lập trình viên Front-end với kinh nghiệm và kiến thức trong VueJs  , React,NestJs,Typescript. Tôi đam mê xây dựng các ứng dụng web đẹp và chất lượng cao với trải nghiệm người dùng tốt nhất có thể.",
+    "contact": "Thông tin liên hệ",
+    "Address": "Địa chỉ",
+    "News_Project": "Dự án mới nhất"
+  }
+}
